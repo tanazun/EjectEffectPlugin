@@ -13,6 +13,8 @@ YMM4 射出エフェクトプラグイン
 
 [【プラグイン】YMM4射出エフェクトプラグイン紹介動画](https://www.nicovideo.jp/watch/sm45081637?ref=garage_share_other)
 
+<img src="./images/thumbnail.jpg" alt="動画のサムネイル" width="50%" />
+
 # 利用に当たり
 - 商用・非商用問わず利用できます。
 - 利用の際のクレジット表記は任意ですが、表記頂けると幸いです。
