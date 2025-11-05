@@ -1,24 +1,26 @@
 # 概要
-YMM4 射出エフェクトプラグイン  
 画像を一定間隔で射出させる映像エフェクトプラグインです。  
 映像エフェクトの「アニメーション」カテゴリに「射出」エフェクトを追加します。
-
-# ダウンロード
-[最新バージョン](https://github.com/tanazun/EjectEffectPlugin/releases/latest)
-
-# 使い方
-[設定項目の説明](./USAGE.md) を参照してください。  
-  
-始めて使う方は、以下の動画も参照ください。ニコニコ動画のリンクです。  
-内容はVer1.0.0のものとなります。最新バージョンと項目の配置が異なりますが、機能は同じです。
-
-[【プラグイン】YMM4射出エフェクトプラグイン紹介動画](https://www.nicovideo.jp/watch/sm45081637?ref=garage_share_other)
 
 <img src="./images/thumbnail.jpg" alt="動画のサムネイル" width="50%" />
 
 立ち絵：akihiyo様
 
-また、更新内容の概要をまとめた動画(Xのポスト)も参考になると思います。
+# ダウンロード・インストール
+YMM4のプラグインポータルから、ダウンロード・インストールできます。  
+直接プラグインをダウンロードする場合は、[最新バージョン](https://github.com/tanazun/EjectEffectPlugin/releases/latest)からダウンロードしてください。
+
+# 使い方
+初めて使う方は、以下の動画を見ることをおすすめします。  
+内容はVer1.0.0のものとなります。最新バージョンと項目の配置が異なりますが、機能は同じです。  
+[YMM4射出エフェクトプラグイン紹介動画（ニコニコ動画）](https://www.nicovideo.jp/watch/sm45081637?ref=garage_share_other)
+
+また、射出エフェクトの使用例解説動画もあります。時々作成していく予定です。  
+[解説動画一覧（ニコニコ動画のマイリスト）](https://www.nicovideo.jp/mylist/78996541)
+
+各機能の説明は、[設定項目の説明](./USAGE.md) にまとめています。  
+
+また、更新した際に作成した概要動画(Xのポスト)も参考になると思います。
 - Ver1.1.0：https://x.com/tanazun0/status/1941484781985988649
 - Ver1.1.1：https://x.com/tanazun0/status/1943301444989522141
 - Ver1.2.0：https://x.com/tanazun0/status/1956014907868242379
