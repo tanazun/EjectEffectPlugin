@@ -28,6 +28,7 @@ YMM4のプラグインポータルから、ダウンロード・インストー�
 - Ver1.4.0：https://x.com/tanazun0/status/1967071059859136785
 - Ver1.5.0：https://x.com/tanazun0/status/1977714204149719053
 - Ver1.6.0：https://x.com/tanazun0/status/1994184638789509425
+- Ver2.0.0：https://x.com/tanazun0/status/2000038167987249577
 
 # 利用に当たり
 - 商用・非商用問わず利用できます。
@@ -55,9 +56,11 @@ YMM4のプラグインポータルから、ダウンロード・インストー�
 # 変更履歴
 - 2025-12-14　Ver2.0.0 公開
   - 射出したアイテムに個別にエフェクトを付ける機能を追加。  
-    この実装は以下のプラグインを参考にさせていただきました。
-      - [形貼り付け](https://github.com/HAIsanGames813/AddShapeEffect)：個別にエフェクトを適用する処理のすべて。
-      - [CustomEffectSelector](https://github.com/dmmo-com-jp/CustomEffectSelector)：個別エフェクトの更新について。
+    この実装は、以下のプラグインを参考にさせて頂きました。
+    - [形貼り付け](https://github.com/HAIsanGames813/AddShapeEffect)：個別にエフェクトを適用する処理のすべて。
+    - [CustomEffectSelector](https://github.com/dmmo-com-jp/CustomEffectSelector)：個別エフェクトの更新について。
+  - 描画処理を見直しによる処理の高速化。特に、シーンアイテム経由だとコマ送りになる現象が解消。
+  - 変更点をまとめた動画(Xのポスト)：https://x.com/tanazun0/status/2000038167987249577
 - 2025-11-28　Ver1.6.0 公開
   - 射出したアイテムの表示順序(先に射出したアイテムが手前／後に射出したアイテムが手前)を指定する機能を追加。
   - 「射出・目標位置のばらつき」に、射出位置を固定する機能を追加。
